@@ -1,2 +1,2 @@
-# Test
-Random programs
+# A simple C Program for Sparse Matrix multiplication
+
